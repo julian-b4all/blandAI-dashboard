@@ -59,15 +59,6 @@ This is the 24-component taxonomy (v2.2) used to classify calls into components 
 
 ---
 
-## General Preferences
-
-- Windows 11, files on OneDrive — always use `encoding='utf-8'` for file I/O
-- Python via Anaconda
-- Use `pathlib.Path` for all file paths
-- `.env` is one directory above project root (`../.env`)
-
----
-
 ## Related Projects
 
 - **BlandAI** (`../BlandAI/`): Pathway config, prompts, KBs, deployment, testing
