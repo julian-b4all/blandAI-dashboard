@@ -10,7 +10,7 @@ Deployed on Streamlit Cloud, data refreshed via a 5-stage pipeline.
 
 ## Dashboard
 
-- **URL**: blandai-mhekzfr5yyd3nj2sdbr3x6.streamlit.app
+- **URL**: blandai-dashboard-nacfnnbfqxrrrxxq9lv4kk.streamlit.app
 - **App file**: `dashboard_drivers.py` (repo root)
 - **Data**: `data/calls_drivers.csv`
 
